@@ -17,10 +17,7 @@
 	"Installed": false,
 	"ExplicitlyLoaded": true,
 	"BuiltInInitialFeatureState": "Active",
-	"Plugins": [
-		{
-			"Name": "JumpCore",
-			"Enabled": true
-		}
+	"DisallowedPlugins": [
+		"JumpCore"
 	]
 }

@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "GameModePluginTemplate",
+	"FriendlyName": "FeatureUtility",
 	"Description": "",
 	"Category": "Game Features",
 	"CreatedBy": "",
@@ -16,5 +16,5 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"ExplicitlyLoaded": true,
-	"BuiltInInitialFeatureState": "Registered"
+	"BuiltInInitialFeatureState": "Active"
 }

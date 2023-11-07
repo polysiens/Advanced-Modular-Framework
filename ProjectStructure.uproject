@@ -16,11 +16,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GameModePluginTemplate",
+			"Name": "ProgressionTemplate",
 			"Enabled": true
 		},
 		{
-			"Name": "ProgressionPluginTemplate",
+			"Name": "GameModeTemplate",
+			"Enabled": true
+		},
+		{
+			"Name": "FeatureUtility",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	]

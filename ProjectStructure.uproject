@@ -30,6 +30,15 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintNodeTemplate",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/8190f8cf1dfa44a4b9e5c8accde255f5"
+		},
+		{
+			"Name": "GeneralActions",
+			"Enabled": true
 		}
 	]
 }

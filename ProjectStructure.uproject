@@ -39,6 +39,10 @@
 		{
 			"Name": "GeneralActions",
 			"Enabled": true
+		},
+		{
+			"Name": "ActionDebugUtility",
+			"Enabled": true
 		}
 	]
 }
